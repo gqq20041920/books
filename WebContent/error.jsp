@@ -3,7 +3,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-	<title>图书馆管理系统</title>
+	<title>图书馆管理系统2</title>
 	<jsp:include page="common/css.jsp"></jsp:include>	
 	<style>
 		body {
