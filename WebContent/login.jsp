@@ -82,7 +82,7 @@
                     </div>
 
                     <label class="control-label" for="password">
-                        没有账号请<a href="<%=basePath%>register.jsp" style="color: blue;">注册</a>
+                        没有账号请联系管理员
                     </label>
                     <br> 
                     
